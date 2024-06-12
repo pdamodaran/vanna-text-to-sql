@@ -41,6 +41,6 @@ python train.py
 python -m streamlit run sql_app.py
 ```
 
-### Check out the demo of the application
+### Check out a demo of the application
 https://github.com/pdamodaran/vanna-text-to-sql/assets/7106134/f2108665-9abc-4882-8612-4b288c855047
 
